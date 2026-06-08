@@ -344,9 +344,4 @@ Developed as part of the **OneVarsity IT Internship Assignment**.
 
 Author:
 Naga Sai Chaitanya Addepalli
-
----
-
-# License
-
-This project is intended for educational and internship evaluation purposes.
+Katikineni Thanveer Rayanam
